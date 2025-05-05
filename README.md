@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Todor Bonev and I'm a web developer passionate about creating different things through programming. I'm currently improving my JavaScript skills, but I can also work with Python and C++.
+My name is Todor Bonev and I'm a web developer passionate about creating different things through programming. I'm currently improving my JavaScript skills, but I am also interested in Python and C++.
 
 **Projects I made**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
