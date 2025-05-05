@@ -1,4 +1,14 @@
 ## Hi there 👋
+My name is Todor Bonev and I'm a web developer passionate about creating websites things through programming. I'm currently improving my JavaScript skills, but I can also work with Python and C++.
+
+Projects with demo
+Calculator
+🌐 Demo: [Calculator](https://TodorBonev.github.io/Calculator).
+📂 [GitHub repository]:(https://github.com/TodorBonev/Calculator)
+📝 Description: Simple calculator that allows you to perform basic mathematical operations, like addition, subtraction, multiplication, division, and percentage calculation. It accepts decimal numbers.
+🔧 Technologies used for this project: HTML, CSS, JavaScript
+
+
 
 <!--
 **TodorBonev/TodorBonev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
