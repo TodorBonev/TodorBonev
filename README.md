@@ -39,6 +39,11 @@ My name is Todor Bonev and I'm a web developer passionate about creating differe
 * 📂 GitHub repository: https://github.com/TodorBonev/Seniority-calculator
 * 🔧 Технологии, използвани за проекта: HTML, CSS, JavaScript
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Websites made by me**
+This is the first real project I've ever done. A fully functional photography website made entirely with React.js. It contains a homepage, an "About" page, a "Gallery" page, and a "Contact" page.
+It is also fully responsive to devices with smaller screens such as smartphones, tablets, small laptops, etc.
+You can visit this photography website [here](https://tanyapetkova-photography.pages.dev)
 <!--
 **TodorBonev/TodorBonev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
