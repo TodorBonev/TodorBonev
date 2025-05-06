@@ -40,7 +40,7 @@ My name is Todor Bonev and I'm a web developer passionate about creating differe
 * 🔧 Технологии, използвани за проекта: HTML, CSS, JavaScript
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Websites made by me**  
+**Websites made by me**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Photography website made with React.js**  
 **Description**: This is the first real project I've ever done. A fully functional photography website made entirely with React.js. It contains a homepage, an "About" page, a "Gallery" page, and a "Contact" page.
