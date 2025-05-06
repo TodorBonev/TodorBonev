@@ -52,8 +52,13 @@ You can visit this photography website [here](https://tanyapetkova-photography.p
 🛠️ **Languages and Tools** :
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
