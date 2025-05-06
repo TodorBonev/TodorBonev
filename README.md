@@ -50,8 +50,12 @@ You can visit this photography website [here](https://tanyapetkova-photography.p
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ **Languages and Tools** :
-https://camo.githubusercontent.com/d7abf49b0eee3ec680030814409c54313a2fcec8221126ce145da1c580f723b3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f76697375616c2d73747564696f2d636f64652d323031392e706e67
-https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</p>
 
 <!--
 **TodorBonev/TodorBonev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
