@@ -49,7 +49,8 @@ You can visit this photography website [here](https://tanyapetkova-photography.p
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠️ **Languages and Tools** :
+##Languages and Tools :
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
