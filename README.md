@@ -43,6 +43,7 @@ My name is Todor Bonev and I'm a web developer passionate about creating differe
 **Websites made by me**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Photography website made with React.js**  
+
 **Description**: This is real-life project that I made entirely with React.js. It is a fully functional photography website that contains a Homepage, an "About" page, a "Gallery" page, and a "Contact" page.
 It is also fully responsive to devices with smaller screens such as smartphones, small laptops, tablets, etc.  
 You can visit this photography website [here](https://tanyapetkova-photography.pages.dev).
