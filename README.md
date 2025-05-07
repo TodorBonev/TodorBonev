@@ -65,7 +65,8 @@ Languages and Tools:
 
 Connect
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+* LinkedIn: [Todor Bonev](https://www.linkedin.com/in/todor-bonev-137662249)
+* Email: totbon77@gmail.com
 <!--
 **TodorBonev/TodorBonev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
