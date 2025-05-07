@@ -63,6 +63,9 @@ Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
+Connect
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <!--
 **TodorBonev/TodorBonev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
