@@ -20,7 +20,7 @@ My name is Todor Bonev and I'm a web developer passionate about creating differe
 
 **Pong game**
 * 📝 Description: Pong game project. The game can be played with the arrow keys on your keyboard.
-* 🌐 Demo: [Snake game](https://TodorBonev.github.io/Pong-game)
+* 🌐 Demo: [Pong game](https://TodorBonev.github.io/Pong-game)
 * 📂 GitHub repository: https://github.com/TodorBonev/Pong-game
 * 🔧 Technologies used for this project: HTML, CSS, JavaScript
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ My name is Todor Bonev and I'm a web developer passionate about creating differe
 * 📝 Description: This is a classic snake game project. The game can be played with the arrow keys on keyboard. The snake is shown in green and the food is shown in red. Score and levels.
 After each eaten food, 10 points are earned. Each time the score reaches 50 points, the current level increases. Increasing the speed. After each level, the snake's speed gradually increases,
 making the game more difficult with each level. After hitting one of the walls of the playing area, the game ends. The game starts again after pressing the "New game" button.
-* 🌐 Demo: [Pong game](https://TodorBonev.github.io/Snake-game)
+* 🌐 Demo: [Snake game](https://TodorBonev.github.io/Snake-game)
 * 📂 GitHub repository: https://github.com/TodorBonev/Snake-game
 * 🔧 Technologies used for this project: HTML, CSS, JavaScript
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
