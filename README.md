@@ -25,6 +25,15 @@ My name is Todor Bonev and I'm a web developer passionate about creating differe
 * 🔧 Technologies used for this project: HTML, CSS, JavaScript
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Snake game**
+* 📝 Description: This is a classic snake game project. The game can be played with the arrow keys on keyboard. The snake is shown in green and the food is shown in red. Score and levels.
+After each eaten food, 10 points are earned. Each time the score reaches 50 points, the current level increases. Increasing the speed. After each level, the snake's speed gradually increases,
+making the game more difficult with each level. After hitting one of the walls of the playing area, the game ends. The game starts again after pressing the "New game" button.
+* 🌐 Demo: [Pong game](https://TodorBonev.github.io/Snake-game)
+* 📂 GitHub repository: https://github.com/TodorBonev/Snake-game
+* 🔧 Technologies used for this project: HTML, CSS, JavaScript
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Number-guessing-game**
 * 📝 Description: Number guessing game in C++. In this game the computer randomly generates a secret number in the range of 1 to 200, and the player has to guess it.
 * 📂 GitHub repository: https://github.com/TodorBonev/Number-guessing-game
