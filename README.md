@@ -5,7 +5,7 @@ My name is Todor Bonev and I'm a web developer passionate about creating differe
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Calculator**
-* 📝 Description: Simple calculator that allows you to perform basic mathematical  operations, like addition, subtraction, multiplication, division, and percentage calculation. It accepts decimal numbers.
+* 📝 Description: Simple calculator that allows you to perform basic mathematical operations, like addition, subtraction, multiplication, division, and percentage calculation. It accepts decimal numbers.
 * 🌐 Demo: [Calculator](https://TodorBonev.github.io/Calculator)
 * 📂 GitHub repository: https://github.com/TodorBonev/Calculator
 * 🔧 Technologies used for this project: HTML, CSS, JavaScript
