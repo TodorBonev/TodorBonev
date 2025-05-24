@@ -28,7 +28,7 @@ My name is Todor Bonev and I'm a web developer passionate about creating differe
 **Snake game**
 * 📝 Description: A classic snake game that can be played with the arrow keys on keyboard. The snake is shown in green and the food is shown in red.
 After each eaten food, 10 points are earned. Each time the score reaches 50 points, the current level increases. After each level, the snake's speed gradually increases,
-making the game more difficult. After hitting one of the walls of the playing area, the game ends. The  game starts again after pressing the "New game" button.
+making the game more difficult. After hitting one of the walls of the playing area, the game ends. It starts again after pressing the "New game" button.
 * 🌐 Demo: [Snake game](https://TodorBonev.github.io/Snake-game)
 * 📂 GitHub repository: https://github.com/TodorBonev/Snake-game
 * 🔧 Technologies used for this project: HTML, CSS, JavaScript
