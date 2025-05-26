@@ -36,7 +36,7 @@ making the game more difficult. After hitting one of the walls of the playing ar
 
 **Number-guessing-game**
 * 📝 Description: In this game (written in C++) the computer randomly generates a secret number in the range of 1 to 200, and the player has to guess it.
-* 📂 GitHub repository: https://github.com/TodorBonev/Number-guessing-game 
+* 📂 GitHub repository: https://github.com/TodorBonev/Number-guessing-game
 * 🔧 Technologies used for this project: C++
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
