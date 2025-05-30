@@ -21,7 +21,7 @@ My name is Todor Bonev and I'm a web developer passionate about creating differe
 **Pong game**
 * 📝 Description: Pong game project. The game can be played with the arrow keys on your keyboard.
 * 🌐 Demo: [Pong game](https://TodorBonev.github.io/Pong-game)
-* 📂 GitHub repository: https://github.com/TodorBonev/Pong-game
+* 📂 GitHub repository: https://github.com/TodorBonev/Pong-game[
 * 🔧 Technologies used for this project: HTML, CSS, JavaScript
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
