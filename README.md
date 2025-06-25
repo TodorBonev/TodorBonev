@@ -1,5 +1,5 @@
 ## Hi there!
-My name is Todor Bonev and I'm a web developer passionate about creating different things through programming. I'm currently improving my JavaScript skills, but I am also interested in Python and C++.
+My name is Todor Bonev and I'm a practical developer passionate about creating different things through programming. I have experience in frontend & full-stack web development, and some experience in game development.
 
 **Demo projects**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -70,8 +70,10 @@ Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="Unity" width="40" height="40"/>
 </p>
 
 Connect
