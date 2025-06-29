@@ -11,7 +11,7 @@ My name is Todor Bonev and I'm a web developer passionate about creating differe
 * 🔧 Technologies used for this project: HTML, CSS, JavaScript
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Tic-tac-toe**
-* 📝 Description: Classic Tic-tac-toe game. The game has option to play against the computer at two levels: amateur and master level. The game also has multiplayer option.
+* 📝 Description: Classic Tic-tac-toe game with option to play against the computer at two levels: amateur and master level. The game also has multiplayer option.
 * 🌐 Demo: [Tic-tac-toe](https://todorbonev.github.io/Tic-tac-toe)
 * 📂 GitHub repository: https://github.com/TodorBonev/Tic-tac-toe
 * 🔧 Technologies used for this project: HTML, CSS, JavaScript
