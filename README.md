@@ -1,5 +1,5 @@
 ## Hi there!
-My name is Todor Bonev and I'm a practical developer passionate about creating different things through programming. I have experience in frontend & full-stack web development, and some experience in game development.
+My name is Todor Bonev and I'm a web developer passionate about creating different things through programming. I have experience in frontend & full-stack web development, and some experience in game development.
 
 **Demo projects**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
